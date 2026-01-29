@@ -1,0 +1,26 @@
+{
+  "name": "ussd-prop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneNtabana/USSD-Prop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ReneNtabana/USSD-Prop/issues"
+  },
+  "homepage": "https://github.com/ReneNtabana/USSD-Prop#readme",
+  "dependencies": {
+    "bullmq": "^5.67.2",
+    "express": "^5.2.1",
+    "ioredis": "^5.9.2"
+  }
+}
